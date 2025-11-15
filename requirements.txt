@@ -1,0 +1,14 @@
+accelerate
+controlnet_aux
+diffusers
+einops
+ffmpeg-python
+mediapipe
+opencv-python
+pillow
+scipy
+torch
+torchvision
+timm
+transformers
+yt-dlp
